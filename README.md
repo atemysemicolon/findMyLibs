@@ -9,5 +9,5 @@ Simple python application which interfaces with cmake and dumps libs
 
 
 ## Usage
-- Install : pip3 install -e git+https://github.com/atemysemicolon/findMyLibs
-- Run : findmylibs <my-lib-name-to-search>
+- Install : `pip3 install -e git+https://github.com/atemysemicolon/findMyLibs`
+- Run : `findmylibs <my-lib-name-to-search>`
