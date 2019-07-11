@@ -1,6 +1,9 @@
 # findMyLibs
 Simple python application which interfaces with cmake and dumps libs
 
+## Oops
+Please note that despite I created this, there is an easier way on Linux to look for libs, with : `ldconfig -p | grep <my-lib-name>`
+- Note to self : Always look at stackoverflow before solving a problem
 
 ## Limitations 
 - Only works for Linux with gcc
